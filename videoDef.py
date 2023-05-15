@@ -22,7 +22,7 @@ video_capture = cv2.VideoCapture(0)
 ret, frame = video_capture.read()
 
 #Создание объекта для подключения к дисплею
-#lcd = CharLCD('PCF8574', 0x27)
+lcd = CharLCD('PCF8574', 0x27)
 
 faces = []
 names = []
@@ -40,7 +40,6 @@ def write_to_lcd(lcd, framebuffer, num_cols):
 
 
 def output_data(text):
-    """
     global framebuffer
     global lcd
 
@@ -52,8 +51,6 @@ def output_data(text):
         framebuffer[1] = text[i:i+16]
         write_to_lcd(lcd, framebuffer, 16)
     sleep(0.2)
-    """
-    print(text)
 
 
 def streaming():
