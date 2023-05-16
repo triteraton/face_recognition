@@ -1,0 +1,54 @@
+¹1 - data: 9.522:18 Name :Ivan Laptev
+¹2 - data: 9.522:19 Name :Ivan Laptev
+¹3 - data: 9.522:19 Name :Unknown
+¹4 - data: 9.522:20 Name :Ivan Laptev
+¹5 - data: 9.522:21 Name :Ivan Laptev
+¹6 - data: 9.522:22 Name :Ivan Laptev
+¹7 - data: 9.522:23 Name :Ivan Laptev
+¹8 - data: 9.522:24 Name :Ivan Laptev
+¹9 - data: 9.522:26 Name :Ivan Laptev
+¹10 - data: 9.522:27 Name :Ivan Laptev
+¹11 - data: 9.522:28 Name :Ivan Laptev
+¹12 - data: 9.522:29 Name :Ivan Laptev
+¹13 - data: 9.522:29 Name :Unknown
+¹14 - data: 9.522:30 Name :Unknown
+¹15 - data: 9.522:30 Name :Ivan Laptev
+¹16 - data: 9.522:31 Name :Unknown
+¹17 - data: 9.522:31 Name :Ivan Laptev
+¹18 - data: 9.522:32 Name :Ivan Laptev
+¹19 - data: 9.522:33 Name :Ivan Laptev
+¹20 - data: 9.522:34 Name :Ivan Laptev
+¹21 - data: 9.522:34 Name :Unknown
+¹22 - data: 9.522:35 Name :Unknown
+¹23 - data: 9.522:35 Name :Ivan Laptev
+¹24 - data: 9.522:36 Name :Ivan Laptev
+¹25 - data: 9.522:37 Name :Ivan Laptev
+¹26 - data: 9.522:37 Name :Stanislav Zanko
+¹27 - data: 9.522:38 Name :Stanislav Zanko
+¹28 - data: 9.522:39 Name :Stanislav Zanko
+¹29 - data: 9.522:39 Name :Unknown
+¹30 - data: 9.522:40 Name :Unknown
+¹31 - data: 9.522:40 Name :Vladislav Belous
+¹32 - data: 9.522:41 Name :Vladislav Belous
+¹33 - data: 9.522:41 Name :Unknown
+¹34 - data: 9.522:42 Name :Vladislav Belous
+¹35 - data: 9.522:42 Name :Ivan Laptev
+¹36 - data: 9.522:42 Name :Unknown
+¹37 - data: 9.522:43 Name :Vladislav Belous
+¹38 - data: 9.522:44 Name :Vladislav Belous
+¹39 - data: 9.522:45 Name :Vladislav Belous
+¹40 - data: 9.522:46 Name :Vladislav Belous
+¹41 - data: 9.522:47 Name :Vladislav Belous
+¹42 - data: 9.522:48 Name :Vladislav Belous
+¹43 - data: 9.522:49 Name :Vladislav Belous
+¹44 - data: 9.522:50 Name :Vladislav Belous
+¹45 - data: 9.522:51 Name :Vladislav Belous
+¹46 - data: 9.522:52 Name :Vladislav Belous
+¹47 - data: 9.522:53 Name :Vladislav Belous
+¹48 - data: 9.522:54 Name :Vladislav Belous
+¹49 - data: 9.522:55 Name :Vladislav Belous
+¹50 - data: 9.522:56 Name :Vladislav Belous
+¹51 - data: 9.522:57 Name :Vladislav Belous
+¹52 - data: 9.522:58 Name :Vladislav Belous
+¹53 - data: 9.522:59 Name :Vladislav Belous
+¹54 - data: 9.523:0 Name :Vladislav Belous
